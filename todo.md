@@ -6,7 +6,7 @@ Keep this at the end of the notebook, for documenting and keeping track.
 - [x] Extract the games graphs
 - [x] Calculate metrics
 - [x] Create visualizations
-- [ ] Design the poster
+- [x] Design the poster
 
 ## Metrics
 
