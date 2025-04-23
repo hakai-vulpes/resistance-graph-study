@@ -1,7 +1,8 @@
 # Analysis of behavior in "The Resistance" game.
 
 This project explores player behavior in The Resistance by focusing on non-verbal
-clues, specifically eye movements and visual attention throughout the game.
+clues, specifically eye movements and visual attention throughout the game. Everything
+used has been extracted from "https://snap.stanford.edu/data/comm-f2f-Resistance.html"
 
 We applied social computation techniques to extract meaningful metrics such as 
 betweenness centrality, graph diameter, modularity, and clustering coefficient 
