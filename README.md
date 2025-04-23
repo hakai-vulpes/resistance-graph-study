@@ -15,6 +15,6 @@ The visualization file displays a community-based representation of these embedd
 In the analysis file, various metrics are calculated to highlight differences between groups, 
 helping to identify where the most likely deceivers may be hiding.
 
-## Autores
+## Authors
 - Daniel Moraleda Sánchez  
 - Daniel Navarro Puche
